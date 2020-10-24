@@ -1,7 +1,7 @@
 package com.anon.pollingappserver.repositories;
 
-import com.anon.pollingappserver.model.Role;
-import com.anon.pollingappserver.model.RoleName;
+import com.anon.pollingappserver.models.Role;
+import com.anon.pollingappserver.models.RoleName;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

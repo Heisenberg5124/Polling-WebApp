@@ -1,13 +1,13 @@
 package com.anon.pollingappserver.controllers;
 
-import com.anon.pollingappserver.exception.AppException;
-import com.anon.pollingappserver.model.Role;
-import com.anon.pollingappserver.model.RoleName;
-import com.anon.pollingappserver.model.User;
-import com.anon.pollingappserver.payload.ApiResponse;
-import com.anon.pollingappserver.payload.JwtAuthenticationResponse;
-import com.anon.pollingappserver.payload.LoginRequest;
-import com.anon.pollingappserver.payload.SignUpRequest;
+import com.anon.pollingappserver.exceptions.AppException;
+import com.anon.pollingappserver.models.Role;
+import com.anon.pollingappserver.models.RoleName;
+import com.anon.pollingappserver.models.User;
+import com.anon.pollingappserver.payloads.ApiResponse;
+import com.anon.pollingappserver.payloads.JwtAuthenticationResponse;
+import com.anon.pollingappserver.payloads.LoginRequest;
+import com.anon.pollingappserver.payloads.SignUpRequest;
 import com.anon.pollingappserver.repositories.RoleRepository;
 import com.anon.pollingappserver.repositories.UserRepository;
 import com.anon.pollingappserver.security.JwtTokenProvider;

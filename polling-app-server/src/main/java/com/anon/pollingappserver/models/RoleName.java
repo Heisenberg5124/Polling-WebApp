@@ -1,4 +1,4 @@
-package com.anon.pollingappserver.model;
+package com.anon.pollingappserver.models;
 
 public enum RoleName {
 

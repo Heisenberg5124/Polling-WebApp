@@ -1,4 +1,4 @@
-package com.anon.pollingappserver.exception;
+package com.anon.pollingappserver.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

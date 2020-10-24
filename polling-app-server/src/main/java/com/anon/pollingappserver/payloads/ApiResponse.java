@@ -1,4 +1,4 @@
-package com.anon.pollingappserver.payload;
+package com.anon.pollingappserver.payloads;
 
 public class ApiResponse {
     private Boolean success;

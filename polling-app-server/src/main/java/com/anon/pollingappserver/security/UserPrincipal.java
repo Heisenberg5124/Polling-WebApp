@@ -1,6 +1,6 @@
 package com.anon.pollingappserver.security;
 
-import com.anon.pollingappserver.model.User;
+import com.anon.pollingappserver.models.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

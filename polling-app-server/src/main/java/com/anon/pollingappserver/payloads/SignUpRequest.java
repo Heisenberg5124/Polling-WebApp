@@ -1,4 +1,4 @@
-package com.anon.pollingappserver.payload;
+package com.anon.pollingappserver.payloads;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;

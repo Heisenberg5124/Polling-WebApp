@@ -1,6 +1,6 @@
-package com.anon.pollingappserver.model;
+package com.anon.pollingappserver.models;
 
-import com.anon.pollingappserver.model.audit.DateAudit;
+import com.anon.pollingappserver.models.audit.DateAudit;
 import org.hibernate.annotations.NaturalId;
 
 import javax.persistence.*;

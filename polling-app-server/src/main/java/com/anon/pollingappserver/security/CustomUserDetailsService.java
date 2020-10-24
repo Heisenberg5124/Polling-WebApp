@@ -1,6 +1,6 @@
 package com.anon.pollingappserver.security;
 
-import com.anon.pollingappserver.model.User;
+import com.anon.pollingappserver.models.User;
 import com.anon.pollingappserver.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
